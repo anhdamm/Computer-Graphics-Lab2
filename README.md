@@ -15,7 +15,7 @@
 - F(x,y) = dy(x) - dx(y) + dx(B) = 0 where a = dy, b = -dx, c = dx(B)
 - For points on the line F(x,y) = 0, F is positive for points below the line and negative for points above the line.
 
-## Midcircle Algorithm explaination:
+### Midcircle Algorithm explaination:
 - Given a circle centered at (0,0) and radius r and a point p(x,y)
 - F(p) = x2 + y2 – r2
 - If F(p)<0, the point is inside the circle
